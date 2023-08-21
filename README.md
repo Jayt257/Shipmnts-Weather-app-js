@@ -1,5 +1,7 @@
 I created this web site in HTML, CSS, Javascript.
 
+I deployed this website on vercel https://weather-app-two-black.vercel.app/
+
 I used the weather API from  https://www.weatherapi.com/ .
 
 In this, there is a search button to search a city name if there is city with entered name than in that case it will show the weather information of that city. And if that city is not available than it will show an dialog of error.
